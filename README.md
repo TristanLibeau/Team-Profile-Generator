@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1blGo-ws5yg_PGr1h7HrOIfyhb6lMyMhu?usp=sha
 
 * The following image shows the result the created HTML via the application
 
-![alt text](.assets/img/mock-up2.png)
+![alt text](.assets/img/mock-up-two.png)
 
 
 ## Credits
