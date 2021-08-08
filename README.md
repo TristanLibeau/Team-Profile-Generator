@@ -10,6 +10,8 @@ https://github.com/TristanLibeau/Team-Profile-Generator
 
 * Url of the walkthrough video
 
+https://drive.google.com/drive/folders/1blGo-ws5yg_PGr1h7HrOIfyhb6lMyMhu?usp=sharing
+
 ## Functionality:
 
 * WHEN I am prompted for my team members and their information
@@ -38,7 +40,7 @@ https://github.com/TristanLibeau/Team-Profile-Generator
 
 * The following image shows the result the created HTML via the application
 
-![alt text](.assets/img/mock-up2)
+![alt text](.assets/img/mock-up2.png)
 
 
 ## Credits
