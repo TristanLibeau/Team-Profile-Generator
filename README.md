@@ -34,7 +34,7 @@ https://github.com/TristanLibeau/Team-Profile-Generator
 
 * The following image shows the process of the application in the terminal
 
-![alt text](./assets/img/mock-up)
+![alt text](./assets/img/mock-up.png)
 
 * The following image shows the result the created HTML via the application
 
